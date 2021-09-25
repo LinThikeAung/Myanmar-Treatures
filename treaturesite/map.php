@@ -1,0 +1,3 @@
+<section style="height: 30rem" class="map col-md-12">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d15470308.420887165!2d87.62818159081607!3d18.801238496383046!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x305652a7714e2907%3A0xba7b0ee41c622b11!2sMyanmar+(Burma)!5e0!3m2!1sen!2smm!4v1563175061647!5m2!1sen!2smm" width="100%" height="97%" frameborder="0" style="border:0" allowfullscreen></iframe>			
+		  </section>
